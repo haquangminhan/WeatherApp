@@ -10,8 +10,8 @@ import style from './style';
 import $ from 'jquery';
 
 
-// const API_KEY = "7e4b4125fd7471b2df46e860f3eefec2"
-const API_KEY = process.env.API_KEY
+const API_KEY = "7e4b4125fd7471b2df46e860f3eefec2"
+// const API_KEY = process.env.API_KEY
 
 // Essentially root component - hosts all other components
 export default class Ipad extends Component {
