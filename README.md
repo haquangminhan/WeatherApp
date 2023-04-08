@@ -18,7 +18,7 @@
   <ol>
     <li>Run <code>npm install</code> to install the required dependencies.</li>
     <li>Obtain an API key from <a href="https://openweathermap.org/">OpenWeatherMap</a>.</li>
-    <li>Run <code>npm start</code> to start the server and open the app in your browser.</li>
+    <li>Run <code>npm run dev</code> to start the server and open the app in your browser.</li>
   </ol>
   <h2>Usage</h2>
   <ol>
